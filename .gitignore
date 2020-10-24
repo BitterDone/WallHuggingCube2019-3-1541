@@ -1,7 +1,7 @@
 # .gitignore-development
-[Aa]pp-*/
-_[Aa]pp-*/
-/[Aa]pp-*/
+[Aa]pp*/
+_[Aa]pp*/
+/[Aa]pp*/
 [Uu]WP/
 /[Uu]WP/
 
